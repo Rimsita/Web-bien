@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+:root {
+  /* Primary */
+  --primary-00: #b75bb7ff;
+  /* Light */
+  --primary-light-25: #c777c7ff;
+  --primary-light-50: #d695d6ff;
+  --primary-light-75: #e3b4e3ff;
+  --primary-light-100: #f0d3f0ff;
+  /* Dark */
+  --primary-dark-25: #974897ff;
+  --primary-dark-50: #763576ff;
+  --primary-dark-75: #542454ff;
+  --primary-dark-100: #311431ff;
+
+  /* Secondary */
+  --secondary-00: #ff7100ff;
+  /* Light */
+  --secondary-light-25: #ff8b30ff;
+  --secondary-light-50: #ffa560ff;
+  --secondary-light-75: #ffc08fff;
+  --secondary-light-100: #ffdbbfff;
+  /* Dark */
+  --secondary-dark-25: #cf5b00ff;
+  --secondary-dark-50: #9f4600ff;
+  --secondary-dark-75: #703000ff;
+  --secondary-dark-100: #401b00ff;
+  /* Accent */
+  --accent-00: #0080ffff;
+  /* Light */
+  --accent-light-25: #3098ffff;
+  --accent-light-50: #60b0ffff;
+  --accent-light-75: #8fc8ffff;
+  --accent-light-100: #bfdfffff;
+  /* Dark */
+  --accent-dark-25: #0068cfff;
+  --accent-dark-50: #00509fff;
+  --accent-dark-75: #003870ff;
+  /* Neutral */
+  --neutral-00: #8d8d8dff;
+  /* Light */
+  --neutral-light-25: #a9a9a9ff;
+  --neutral-light-50: #c5c5c5ff;
+  --neutral-light-75: #e2e2e2ff;
+  --neutral-light-100: #fefefeff;
+  /* Dark */
+  --neutral-dark-25: #6a6a6aff;
+  --neutral-dark-50: #474747ff;
+  --neutral-dark-75: #242424ff;
+  --neutral-dark-100: #010101ff;
+}
